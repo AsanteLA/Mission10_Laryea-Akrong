@@ -71,8 +71,7 @@
               "RelativeToolTip": "Data\\ZtblWeek.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T18:25:41.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T18:25:41.187Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "Data\\ZtblSkipLabel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T18:25:01.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T18:25:01.532Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "Data\\ZtblBowlerRating.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T18:24:10.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T18:24:10.238Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "Data\\TourneyMatch.cs",
               "ViewState": "AQIAAAYAAACAAQAAAIAZwBMAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T18:19:05.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T18:19:05.878Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "Data\\Tournament.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T18:17:56.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T18:17:56.91Z"
             },
             {
               "$type": "Document",
@@ -136,8 +131,7 @@
               "RelativeToolTip": "Data\\Team.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T18:17:13.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T18:17:13.047Z"
             },
             {
               "$type": "Document",
@@ -149,8 +143,7 @@
               "RelativeToolTip": "Data\\MatchGame.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T18:12:18.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T18:12:18.979Z"
             },
             {
               "$type": "Document",
@@ -162,8 +155,7 @@
               "RelativeToolTip": "Data\\EFBowlingRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T18:02:23.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T18:02:23.062Z"
             }
           ]
         }

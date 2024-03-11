@@ -125,3 +125,4 @@ C:\Users\asante\source\repos\Mission10_Laryea-Akrong\backend\Mission10\obj\Debug
 C:\Users\asante\source\repos\Mission10_Laryea-Akrong\backend\Mission10\obj\Debug\net8.0\Mission10.pdb
 C:\Users\asante\source\repos\Mission10_Laryea-Akrong\backend\Mission10\obj\Debug\net8.0\Mission10.genruntimeconfig.cache
 C:\Users\asante\source\repos\Mission10_Laryea-Akrong\backend\Mission10\obj\Debug\net8.0\ref\Mission10.dll
+C:\Users\asante\source\repos\Mission10_Laryea-Akrong\backend\Mission10\obj\Debug\net8.0\Mission10.sourcelink.json
