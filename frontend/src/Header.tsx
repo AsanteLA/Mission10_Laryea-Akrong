@@ -7,7 +7,7 @@ function Header(props: any) {
         <img src={logo} className="logo" alt="Bowling Logo" />
       </div>
       <div className="col subtitle">
-        <h1 className="text-white text-center">{props.title}</h1>
+        <h1 className="text-white text-center ">{props.title}</h1>
       </div>
     </header>
   );
